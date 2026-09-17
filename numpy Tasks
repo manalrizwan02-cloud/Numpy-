@@ -1,0 +1,20 @@
+core operations of numpy 
+basic practice tasks
+Task 1
+# Student Marks Analyzer
+
+## Problem
+
+We have marks of different students.
+
+We want to find:
+
+- Average marks
+- Highest marks
+- Lowest marks
+- Total passed students
+- Total failed students
+
+
+
+
